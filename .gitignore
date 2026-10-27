@@ -1,0 +1,10 @@
+# HuggingFace dataset cache (~5GB)
+.cache/
+
+# Editor
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
